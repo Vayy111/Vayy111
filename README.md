@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Malsha Vayani</h1>
 <h3 align="center">A Data Science Undergraduate</h3>
-
+<p align="center">
+  <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/12b479d7-b0e8-40aa-9cf6-ee2d55d2fde2" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vayy111&label=Profile%20views&color=0e75b6&style=flat" alt="vayy111" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vayy111" alt="vayy111" /></a> </p>
@@ -22,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vayy111&show_icons=true&locale=en&layout=compact" alt="vayy111" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vayy111&show_icons=true&locale=en" alt="vayy111" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vayy111&show_icons=true&locale=en" alt="vayy111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vayy111&" alt="vayy111" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vayy111&" alt="vayy111" /></p>
 
